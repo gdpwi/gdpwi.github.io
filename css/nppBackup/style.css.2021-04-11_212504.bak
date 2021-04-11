@@ -31,7 +31,7 @@ nav{
 }
 
 body{
- background-color: white;#ffffe6;/*#ffffe6;*/
+ background-color: #ffffe6;/*#ffffe6;*/
 }
 
 p{
