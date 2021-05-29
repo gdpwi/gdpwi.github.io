@@ -45,6 +45,7 @@ footer{
 	border-top:solid 1px orange;	
 	margin-top:2%;
 
+
 }
 
 
@@ -63,3 +64,10 @@ footer{
 	background-color:white;
 	font-size:12px;
 }
+
+#footer {
+   	position:absolute;
+    bottom:0;
+	width:100%;
+}
+
