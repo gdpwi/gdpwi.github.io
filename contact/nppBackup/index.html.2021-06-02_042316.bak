@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <title>REFUND POLICY G.D.P</title>
+  <title>G.D.P CONTACT US</title>
   <link rel="shortcut icon" href="../images/g1.jpg" alt="workindulge"/>
   
   	<meta name="keywords" content="gdp,great deals point, gdp delhi,ladies ,99 store , gdp 99 store, contact us">
@@ -59,31 +59,61 @@
 <div class="container-fluid" style="margin-top:70px;">
 	<div class="jumbotron shadow" style="background-color:white;" >
 
-		  <h5 align="center"><b>REFUND POLICY</b></h5>
+		  <h5><b>CONTACT US</b></h5>
 				 
-		  <div style="text-align:justify;">
-		  When you buy our products, your purchase is covered by our 2 days money-back guarantee, 
-		  if we have not complied as per product website details. Also, the product needs to be 
-		  unused and all tags and labels should be intact. However, for products where personalization 
-		  (with print / embroidery) has been requested, we will not be able to refund – so kindly make 
-		  sure to order the correct product.  We manufacture and sell products that we use ourselves every 
-		  day and have thousands of satisfied customers, and our support is second to none. That is why we 
-		  can afford to back our products with this special guarantee.  We take customer feedback very seriously 
-		  and use it to constantly improve our products and quality of service. Refunds are being processed within a 21 days period.
-		  <br/><br/>
-		  <b>Note:</b>
-          If the original payment method you used to make the payment (credit/ debit card) is no longer valid and payment made through
-		  wallets, we’ll issue the refund through Net Banking(Credited to Bank account), for that you should send bank account details
-		  through registered email to workindulgeteam@gmail.com.
-          When we receive a payment failure notice from your bank, we will send you an e-mail to registered email asking you to resend 
-		  the bank account details.
+		  <div class="row">
+             <div class="col-md-3 mb-2">
+			  <h6>About US</h6>
+			  <p style="text-align:justify"><b>GREAT DEALS POINT</b> IS A STARTUP MANAGED BY YOUNG MINDS TO DEAL IN WHOLESALE LADIES PRODUCTS LIKE LEGGINGS, SALWARS, PLAZOS, 
+			  JEGGINGS, KURTIES CROPTOPS, PLAZO SUIT, SKIRT KURTIES, NIGHTIES, MAXI, NIGHTWEAR  AND NIGHTSUIT ITEMS. WE PROVIDE OUR CUSTOMERS BUSINESS OPPORTUNITIEs TO START THEIR OWN BUSINESS BY COLLABORATING WITH US.
+			 
+			  </p>
+			 </div>
+			
+			 
+             <div class="col-md-2 mb-2">
+			  <h6>Follow US</h6>
+				  <div style="font-size:20px;" class="mb-2">
+				   <a href="https://facebook.com/mandeepgarment/"  target="_blank" class="fa fa-facebook mr-3"></a>
+				   <a href="https://www.instagram.com/mandeepgarments/"  target="_blank" class="fa fa-instagram mr-3"></a>
+				   <a href="https://www.youtube.com/channel/UCwkPYiOKNEjpsKu6qUDpMww" target="_blank" class="fa fa-youtube mr-3"></a>
+				   <a href="https://wa.me/message/VWAGHLZD2DY5M1" target="_blank" class="fa fa-whatsapp"></a>
+		          </div>
+			 </div>
 
-          </div>
+             <div class="col-md-3 mb-2">
+			  <h6>Location</h6>
+			  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3501.090867171214!2d77.2697009150831!3d28.65699778240816!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390cfd810196dd0d%3A0x60a9cb97004f7ab6!2sGreat%20Deals%20Point!5e0!3m2!1sen!2sin!4v1618146649596!5m2!1sen!2sin" 
+			  width="300" height="250" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+			 </div>		 
+             
+			 <div class="col-md-2 mb-2">
+			  <h6>For Business</h6>
+                <div class="input-group-append " >
+                  <a href="https://docs.google.com/forms/d/e/1FAIpQLSeTlnvRx7OEUEFJ6DksTFQqMcOpGPQWLwKqxvpnpdmSRVPjNQ/viewform?usp=sf_link"
+				  class="btn btn-sm btn-dark mr-2 mb-2">CONTACT NOW</a>
+                </div>	
+			  <div>
+				<p style="text-align:left;"><b>Gmail:</b><br/><span style="font-size:11px">mandeepsingh.batra18@gmail.com<br/>workindulgeteam@gmail.com</span></p>
+				<p style="text-align:left"><b>Mobile:</b><br/>9958446259<br/>8178967356</p>
+                <p style="text-align:left"><b>Address:</b><br/>1A, Great Deals Point, 5, Jheel Marg, Block 1a, Geeta Colony, Delhi, 110031</p>			
+			</div>
+       		 				
+			 </div>   
+			 
+             <div class="col-md-2 mb-2">
+		 	   <h6>Quick Links</h6>
+			   <a href="../">HOME</a><br/>
+			   <a href="../#thali">PRODUCTS</a><br/>
+			   <a href="">CONTACT US</a><br/>
+			   <a href="https://workindulge.com/">WORKINDULGE</a></br>
+			 </div>				 
 		  
+		  </div>    
+
 	</div>
 </div>
   
-
 
 <!-- Footer -->
  <footer class="shadow-lg">
@@ -94,12 +124,12 @@
 			 
              <div class="col-md-2 mb-2">
 		 	   <h6>Product Service</h6>
-			   <a href="../contact">CONTACT US</a><br/>
-			   <a href="refund.html">REFUND POLICY</a><br/>
-			   <a href="shipping.html">SHIPPING POLICY</a><br/>
-			   <a href="cancellation.html">CANCELLATION POLICY</a><br/>
-			   <a href="terms.html">TERMS & CONDITIONS</a><br/>
-               <a href="privacy.html">PRIVACY POLICY</a><br/>
+			   <a href="/contact">CONTACT US</a><br/>
+			   <a href="policy/refund.html">REFUND POLICY</a><br/>
+			   <a href="policy/shipping.html">SHIPPING POLICY</a><br/>
+			   <a href="policy/cancellation.html">CANCELLATION POLICY</a><br/>
+			   <a href="policy/terms.html">TERMS & CONDITIONS</a><br/>
+               <a href="policy/privacy.html">PRIVACY POLICY</a><br/>
 			   <a href="https://workindulge.com/">WORKINDULGE</a></br>
 			 </div>		
 
@@ -135,7 +165,7 @@
 		 	   <h6>Quick Links</h6>
 			   <a href="../">HOME</a><br/>
 			   <a href="../#thali">PRODUCTS</a><br/>
-			   <a href="../contact">CONTACT US</a><br/>
+			   <a href="">CONTACT US</a><br/>
 			   <a href="https://workindulge.com/">WORKINDULGE</a></br>
 			 </div>				 
 		  
@@ -160,6 +190,7 @@
 
 </footer>
 <!-- Footer -->
+
 
 
 
